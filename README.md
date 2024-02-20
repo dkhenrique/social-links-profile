@@ -27,8 +27,6 @@ Users should be able to:
   <img src=".github/preview.png" width="100%">
 </p>
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Built with
 
 - Semantic HTML5 markup
